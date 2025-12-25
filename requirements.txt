@@ -1,0 +1,8 @@
+pandas
+matplotlib
+nltk==3.9.1
+wordcloud
+scikit-learn
+xgboost
+PyYAML
+dvclive
